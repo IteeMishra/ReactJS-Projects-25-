@@ -1,0 +1,31 @@
+.accordian-inner{
+display: flex;
+background-color: rgb(53, 97, 192);
+  color: white;
+  margin-bottom: 20px;
+  border-radius:12px;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 20px;
+border-radius:12px;
+flex-direction: row;
+align-items: center;
+justify-content:space-between;
+padding:0 30px;
+}
+.accordian{
+  
+  text-align: center;
+  display: flex;
+  background-color: rgb(231, 238, 255);
+flex-direction: column;
+}
+p{
+  font-weight: 700;
+  font-size: 20px;
+  height: 100%;
+  
+  margin-left: 15%;
+  margin-right: 15%;
+ 
+}
